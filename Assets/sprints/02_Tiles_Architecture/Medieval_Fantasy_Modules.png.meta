@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 0bb8277a7fe55ea47b5eee67100d5e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8324148973646140616
+    second: Medieval_Fantasy_Modules_0
+  - first:
+      213: -2385613570230230709
+    second: Medieval_Fantasy_Modules_1
+  - first:
+      213: -3160888958866254573
+    second: Medieval_Fantasy_Modules_2
+  - first:
+      213: -3880314588802264287
+    second: Medieval_Fantasy_Modules_3
+  - first:
+      213: 8228740144905160477
+    second: Medieval_Fantasy_Modules_4
+  - first:
+      213: 1262540154654609572
+    second: Medieval_Fantasy_Modules_5
+  - first:
+      213: -591417603965363135
+    second: Medieval_Fantasy_Modules_6
+  - first:
+      213: -7738827299818221982
+    second: Medieval_Fantasy_Modules_7
+  - first:
+      213: -4588286271303763794
+    second: Medieval_Fantasy_Modules_8
+  - first:
+      213: -5765906596362084211
+    second: Medieval_Fantasy_Modules_9
+  - first:
+      213: -8980294237999780690
+    second: Medieval_Fantasy_Modules_10
+  - first:
+      213: 8366323527213541512
+    second: Medieval_Fantasy_Modules_11
+  - first:
+      213: 5090092404026075287
+    second: Medieval_Fantasy_Modules_12
+  - first:
+      213: 2337308424580991473
+    second: Medieval_Fantasy_Modules_13
+  - first:
+      213: -3744544691903403653
+    second: Medieval_Fantasy_Modules_14
+  - first:
+      213: 3917494107318416514
+    second: Medieval_Fantasy_Modules_15
+  - first:
+      213: 943059049837914463
+    second: Medieval_Fantasy_Modules_16
+  - first:
+      213: 3105670605968986956
+    second: Medieval_Fantasy_Modules_17
+  - first:
+      213: 5602620543255881957
+    second: Medieval_Fantasy_Modules_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 919
+        width: 228
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45c976361558370800000000000000
+      internalID: 8324148973646140616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 866
+        width: 435
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41631fe81994eed0800000000000000
+      internalID: -2385613570230230709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 915
+        width: 627
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31592503d344224d0800000000000000
+      internalID: -3160888958866254573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 668
+        width: 259
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123dca5b07a562ac0800000000000000
+      internalID: -3880314588802264287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 649
+        width: 399
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178116609b523270800000000000000
+      internalID: 8228740144905160477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 877
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0dad8d491758110800000000000000
+      internalID: 1262540154654609572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 655
+        width: 644
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5bb992dcdac7f0800000000000000
+      internalID: -591417603965363135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 476
+        width: 293
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4d38a2992a9490800000000000000
+      internalID: -7738827299818221982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 485
+        width: 248
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8332f22f12350c0800000000000000
+      internalID: -4588286271303763794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 631
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a1cbef726bffa0800000000000000
+      internalID: -5765906596362084211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 467
+        width: 214
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac298d58f59f5380800000000000000
+      internalID: -8980294237999780690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 337
+        width: 637
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886e8bdbe62b1470800000000000000
+      internalID: 8366323527213541512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 349
+        width: 240
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79863efa214a3a640800000000000000
+      internalID: 5090092404026075287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 341
+        width: 371
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98da9e0a9cf6020800000000000000
+      internalID: 2337308424580991473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 168
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e5813174b80cc0800000000000000
+      internalID: -3744544691903403653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 52
+        width: 170
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2847664822cbd5630800000000000000
+      internalID: 3917494107318416514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 15
+        width: 403
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596ec3953b661d00800000000000000
+      internalID: 943059049837914463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 52
+        width: 424
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43572a26fe891b20800000000000000
+      internalID: 3105670605968986956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Fantasy_Modules_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 35
+        width: 194
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a21c33b180cd40800000000000000
+      internalID: 5602620543255881957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval_Fantasy_Modules_0: 8324148973646140616
+      Medieval_Fantasy_Modules_1: -2385613570230230709
+      Medieval_Fantasy_Modules_10: -8980294237999780690
+      Medieval_Fantasy_Modules_11: 8366323527213541512
+      Medieval_Fantasy_Modules_12: 5090092404026075287
+      Medieval_Fantasy_Modules_13: 2337308424580991473
+      Medieval_Fantasy_Modules_14: -3744544691903403653
+      Medieval_Fantasy_Modules_15: 3917494107318416514
+      Medieval_Fantasy_Modules_16: 943059049837914463
+      Medieval_Fantasy_Modules_17: 3105670605968986956
+      Medieval_Fantasy_Modules_18: 5602620543255881957
+      Medieval_Fantasy_Modules_2: -3160888958866254573
+      Medieval_Fantasy_Modules_3: -3880314588802264287
+      Medieval_Fantasy_Modules_4: 8228740144905160477
+      Medieval_Fantasy_Modules_5: 1262540154654609572
+      Medieval_Fantasy_Modules_6: -591417603965363135
+      Medieval_Fantasy_Modules_7: -7738827299818221982
+      Medieval_Fantasy_Modules_8: -4588286271303763794
+      Medieval_Fantasy_Modules_9: -5765906596362084211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

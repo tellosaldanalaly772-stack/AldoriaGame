@@ -1,0 +1,2125 @@
+fileFormatVersion: 2
+guid: 1227463769ea608438e4771ddb1c924f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -382801596290702025
+    second: Tileset de alcantarilla medieval_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 685
+        width: 345
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e3a1f9f300baf0800000000000000
+      internalID: -382801596290702025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 687
+        width: 336
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72169e45e5fd344c869454e593889e9
+      internalID: -1596427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 806
+        width: 161
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a10c29d9b3c843b240a75fd7520c9
+      internalID: 1491945197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 802
+        width: 177
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6624a50a922e41a43be0a2ebe4ef5481
+      internalID: 795882758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_4
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 663
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc83773c1c6a8f4b9ea0de29fd4799d
+      internalID: -592725866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 782
+        width: 115
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78685c80c63a8284e8c25c9c6b1b9dcd
+      internalID: 1154100023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 782
+        width: 195
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1ad17bd2686a4eb4a5894f4903f53
+      internalID: -1909070212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 911
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0de146c688fa45af6140a356a215f
+      internalID: -565561091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 271
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141eef30596472418ba4b1f56c9d716
+      internalID: 35336523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 455
+        width: 220
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33de198511ca8f478c7a6d9d4461d28
+      internalID: 942291218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_10
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 659
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8ef8f695d38a44a321792ae0ad412
+      internalID: -1050260584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 653
+        width: 204
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74381269930660145a7aed21b0347f49
+      internalID: 1302497560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_12
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 640
+        width: 197
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79b3656d9815b40a1f57b2bf36c11e
+      internalID: 1159050238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_13
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 509
+        width: 105
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483b9cca3bb18248aab7cfdda08c8b7
+      internalID: -2021500983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 464
+        width: 217
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5544150e3e76439fa7724584694c7
+      internalID: -1145185769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 441
+        width: 62
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de94498cb7c474a8610238f04addb4
+      internalID: -2058709489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 526
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b80b72c9ae6b4a93c7f9957a48b75
+      internalID: 1411429208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 530
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0654767893f1419001c9ef5922aff
+      internalID: -1980246409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_18
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 544
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7420ef4300c49c4198b21da28b9ae4d
+      internalID: 887271845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_19
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 523
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19868775cf954a44fb2f2be1082c7f85
+      internalID: -1261256982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_20
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 510
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a6b1956ddf5b4584fbff564e9c230
+      internalID: 1941349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_21
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 452
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a8c2a7f4427e4699fe352f8d9f067
+      internalID: -1836430421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_22
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 455
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a91843fbdb78942b086d45856e7a1c
+      internalID: 2058973525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_23
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 375
+        width: 35
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7471ccdd0dba64d9fd13cc94a9b9f8
+      internalID: -1560643795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_24
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 257
+        width: 63
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d0e2858f91564a9ef2e433b1e60f0
+      internalID: -420749744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_25
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 341
+        width: 25
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64dae111925874da17e01ff880f14f
+      internalID: -441093483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_26
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 282
+        width: 32
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ca5882071f054d83efb0b7ea04b9a
+      internalID: 151305702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_27
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 276
+        width: 77
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41bb6e0bdacc340960b29911de0d98
+      internalID: 1455398508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_28
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 355
+        width: 29
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f5aaa797bce5a4b97c91d05d67a0f3
+      internalID: -1599796708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 304
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74cb3f35102db4f9c46b2fd92f6658
+      internalID: 2032788193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 254
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9215ba8b871ad1e4fbf7a5ba1f9cb740
+      internalID: 1708939087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 298
+        width: 187
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba379c1b792b54bb2f671ae2774c0e
+      internalID: 1998695395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 296
+        width: 151
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb12dd88dece3d48b31e4f2dbf91fd6
+      internalID: -1843095663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_33
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 344
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33e217d1805b446bc284ce2e94559a
+      internalID: -103487526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_34
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 286
+        width: 66
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eec561bef9fbc408f7dac49ce4162e
+      internalID: 1103855621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_35
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 286
+        width: 78
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ae63345361484ba666f163b58b0e1
+      internalID: 662531672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_36
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 292
+        width: 174
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14fce76ac05464591f2f01033b6d45
+      internalID: -1249683250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 245
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78444e838856c246a4e2736c5f1c364
+      internalID: 595708994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 251
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa530389cd32114ebe63fd6d1944786
+      internalID: 1369875897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 222
+        width: 162
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b6a6962826c94b9473626497eda4f
+      internalID: 178911659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 165
+        width: 40
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e69d3df54bcae4c93951b89a53004c
+      internalID: -876089901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 308
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bcaa289e1f0694587366ccd0d74c03
+      internalID: 863216600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 231
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd4b3f004617449ad2e29892ed79d5
+      internalID: -1748580383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 257
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723fd86f53d77844b2e3b53fb0f73a7
+      internalID: -722542470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 259
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e5af4378e82b745b9a5072d046f367
+      internalID: 1824156358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 165
+        width: 258
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7db349072deb540be2f6a9ffdcc404
+      internalID: 1112716867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_46
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 165
+        width: 178
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db996a5791d75f04087aac6b7fe3be2e
+      internalID: 1152801911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_47
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 163
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d94425b17eb44d99e3f9cdd3ae92f
+      internalID: 85947521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 175
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321ad6d88e59124fb393d076470e332
+      internalID: 1511857620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 175
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2d25234837f442b2f1dd18bd8bc85
+      internalID: -1777409862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_50
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 174
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1ad6fc9213aa44bacc09bb427c741
+      internalID: -1904873356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_51
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 175
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e7c187e230a5489d0bcaf6d31a38b
+      internalID: -636571039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_52
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 165
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6805a931988ee4eb706dea2abc90cc
+      internalID: -368075156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_53
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 162
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d51bb65786a142baa7043996a490e
+      internalID: 406741941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 166
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a493882296044a8c6cf2644d6f482
+      internalID: 1611849979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_55
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 163
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1684ef00115748b4eb07df54d01664a0
+      internalID: 923142983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_56
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 163
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1f21d5fdb7b7469490b55b9a0ffb9
+      internalID: -1412011465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 90
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d671ef3a9c4ac24aad4d991daa19582
+      internalID: 897976811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 100
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f517e72f80ca41b124440869ff142
+      internalID: 17812376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_59
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 21
+        width: 84
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfca758909cb9e488695dbd5a2aa017
+      internalID: 1550732272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_60
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 22
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56efbfe5dbd6b64ebbc036e566eee17
+      internalID: -460053318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 26
+        width: 167
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffaa803a4fd1d4d82deaa2a07a4bbf
+      internalID: -1614868646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 96
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe433d49499c8414e8b3a31796d52171
+      internalID: 1367733736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_63
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 24
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44d0b1684ea2a45a211cb87a43ce15
+      internalID: -1713846679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_64
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 24
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99526c47b88bb145a1f72c098bcf12e
+      internalID: -171482179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_65
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 137
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b0318bb95803448e6b01987a8beca
+      internalID: -1057758333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_66
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3c3b634853714fb93eb70fd8fd3a5
+      internalID: 1736562689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_67
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 24
+        width: 35
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1aa5146bb26754798925cb2fcd66cd
+      internalID: -1455187136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_68
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 23
+        width: 106
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a83fd2267bec7409c845f66135749f
+      internalID: 1053801560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_69
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 136
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa156fbe058872d419e6348870a72220
+      internalID: -294553960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_70
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 24
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166786f920a91074d98fe93ab4e5ee71
+      internalID: 1745331949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_71
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 75
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1430d436428ce2745bdff22ff2210395
+      internalID: 1001862735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_72
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 112
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f39a3165579784b8b86e8a112d6b7f
+      internalID: 71390467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_73
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 88
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78bb671a24f75241a0acbe3f351a3f2
+      internalID: 1571768527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_74
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 77
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5f2a2869facd4aba07c880da32b0f
+      internalID: 195607334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_75
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 24
+        width: 17
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87debe063aea44391b5cb8d1b88e5e
+      internalID: 1549634069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_76
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 25
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c69503fc823b045a542b173c79b13f
+      internalID: 1319121393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_77
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 91
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f96997f7daaaf4d99988cf8d4018ca
+      internalID: 151281057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_78
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 97
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7027ecc5e45cb4bafa32aa46f183ce
+      internalID: 704973727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_79
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 26
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a3ebfd9bef1345b67b7be0273dbf0
+      internalID: -479793890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_80
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 53
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351dc7381391e345a81b09c584945fb
+      internalID: 1197876785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_81
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dbf1331bf8fc14bb7d2c820dabe155
+      internalID: 1225379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_82
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 18
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b871e7e5a26ed4e91c8f43c06f68d3
+      internalID: 509870498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_83
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 22
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a329d3638b70f3499bc8438373393f9
+      internalID: -994640839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_84
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 18
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1e65264675b14083a58dd89f2a6b0
+      internalID: 1515400761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_85
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 25
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d60c2a87fb5ae4ca949764b3ef21ef
+      internalID: -992779101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset de alcantarilla medieval_86
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 25
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d471709b7af1468148a2c389a2c16
+      internalID: -1923230727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 74cc6d8d309080a41a0c3c371a68978b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tileset de alcantarilla medieval_0: -382801596290702025
+      Tileset de alcantarilla medieval_1: -1596427312
+      Tileset de alcantarilla medieval_10: -1050260584
+      Tileset de alcantarilla medieval_11: 1302497560
+      Tileset de alcantarilla medieval_12: 1159050238
+      Tileset de alcantarilla medieval_13: -2021500983
+      Tileset de alcantarilla medieval_14: -1145185769
+      Tileset de alcantarilla medieval_15: -2058709489
+      Tileset de alcantarilla medieval_16: 1411429208
+      Tileset de alcantarilla medieval_17: -1980246409
+      Tileset de alcantarilla medieval_18: 887271845
+      Tileset de alcantarilla medieval_19: -1261256982
+      Tileset de alcantarilla medieval_2: 1491945197
+      Tileset de alcantarilla medieval_20: 1941349172
+      Tileset de alcantarilla medieval_21: -1836430421
+      Tileset de alcantarilla medieval_22: 2058973525
+      Tileset de alcantarilla medieval_23: -1560643795
+      Tileset de alcantarilla medieval_24: -420749744
+      Tileset de alcantarilla medieval_25: -441093483
+      Tileset de alcantarilla medieval_26: 151305702
+      Tileset de alcantarilla medieval_27: 1455398508
+      Tileset de alcantarilla medieval_28: -1599796708
+      Tileset de alcantarilla medieval_29: 2032788193
+      Tileset de alcantarilla medieval_3: 795882758
+      Tileset de alcantarilla medieval_30: 1708939087
+      Tileset de alcantarilla medieval_31: 1998695395
+      Tileset de alcantarilla medieval_32: -1843095663
+      Tileset de alcantarilla medieval_33: -103487526
+      Tileset de alcantarilla medieval_34: 1103855621
+      Tileset de alcantarilla medieval_35: 662531672
+      Tileset de alcantarilla medieval_36: -1249683250
+      Tileset de alcantarilla medieval_37: 595708994
+      Tileset de alcantarilla medieval_38: 1369875897
+      Tileset de alcantarilla medieval_39: 178911659
+      Tileset de alcantarilla medieval_4: -592725866
+      Tileset de alcantarilla medieval_40: -876089901
+      Tileset de alcantarilla medieval_41: 863216600
+      Tileset de alcantarilla medieval_42: -1748580383
+      Tileset de alcantarilla medieval_43: -722542470
+      Tileset de alcantarilla medieval_44: 1824156358
+      Tileset de alcantarilla medieval_45: 1112716867
+      Tileset de alcantarilla medieval_46: 1152801911
+      Tileset de alcantarilla medieval_47: 85947521
+      Tileset de alcantarilla medieval_48: 1511857620
+      Tileset de alcantarilla medieval_49: -1777409862
+      Tileset de alcantarilla medieval_5: 1154100023
+      Tileset de alcantarilla medieval_50: -1904873356
+      Tileset de alcantarilla medieval_51: -636571039
+      Tileset de alcantarilla medieval_52: -368075156
+      Tileset de alcantarilla medieval_53: 406741941
+      Tileset de alcantarilla medieval_54: 1611849979
+      Tileset de alcantarilla medieval_55: 923142983
+      Tileset de alcantarilla medieval_56: -1412011465
+      Tileset de alcantarilla medieval_57: 897976811
+      Tileset de alcantarilla medieval_58: 17812376
+      Tileset de alcantarilla medieval_59: 1550732272
+      Tileset de alcantarilla medieval_6: -1909070212
+      Tileset de alcantarilla medieval_60: -460053318
+      Tileset de alcantarilla medieval_61: -1614868646
+      Tileset de alcantarilla medieval_62: 1367733736
+      Tileset de alcantarilla medieval_63: -1713846679
+      Tileset de alcantarilla medieval_64: -171482179
+      Tileset de alcantarilla medieval_65: -1057758333
+      Tileset de alcantarilla medieval_66: 1736562689
+      Tileset de alcantarilla medieval_67: -1455187136
+      Tileset de alcantarilla medieval_68: 1053801560
+      Tileset de alcantarilla medieval_69: -294553960
+      Tileset de alcantarilla medieval_7: -565561091
+      Tileset de alcantarilla medieval_70: 1745331949
+      Tileset de alcantarilla medieval_71: 1001862735
+      Tileset de alcantarilla medieval_72: 71390467
+      Tileset de alcantarilla medieval_73: 1571768527
+      Tileset de alcantarilla medieval_74: 195607334
+      Tileset de alcantarilla medieval_75: 1549634069
+      Tileset de alcantarilla medieval_76: 1319121393
+      Tileset de alcantarilla medieval_77: 151281057
+      Tileset de alcantarilla medieval_78: 704973727
+      Tileset de alcantarilla medieval_79: -479793890
+      Tileset de alcantarilla medieval_8: 35336523
+      Tileset de alcantarilla medieval_80: 1197876785
+      Tileset de alcantarilla medieval_81: 1225379133
+      Tileset de alcantarilla medieval_82: 509870498
+      Tileset de alcantarilla medieval_83: -994640839
+      Tileset de alcantarilla medieval_84: 1515400761
+      Tileset de alcantarilla medieval_85: -992779101
+      Tileset de alcantarilla medieval_86: -1923230727
+      Tileset de alcantarilla medieval_9: 942291218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

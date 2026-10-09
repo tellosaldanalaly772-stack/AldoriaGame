@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: a10d00f85a0ac7a4da1a29f6e8739eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9018084329674240979
+    second: Jefe  lanzador de redes_0
+  - first:
+      213: -4537604693863968348
+    second: Jefe  lanzador de redes_1
+  - first:
+      213: 782720929284703250
+    second: Jefe  lanzador de redes_2
+  - first:
+      213: -6986395228005027310
+    second: Jefe  lanzador de redes_3
+  - first:
+      213: 6698885625291324366
+    second: Jefe  lanzador de redes_4
+  - first:
+      213: 2679890249545386071
+    second: Jefe  lanzador de redes_5
+  - first:
+      213: -5350420771143863075
+    second: Jefe  lanzador de redes_6
+  - first:
+      213: 5290278521069429517
+    second: Jefe  lanzador de redes_7
+  - first:
+      213: 270363450884947267
+    second: Jefe  lanzador de redes_8
+  - first:
+      213: 3806330789761965679
+    second: Jefe  lanzador de redes_9
+  - first:
+      213: 3952783271363988687
+    second: Jefe  lanzador de redes_10
+  - first:
+      213: 4693665379023855322
+    second: Jefe  lanzador de redes_11
+  - first:
+      213: -1841247287523876089
+    second: Jefe  lanzador de redes_12
+  - first:
+      213: -468985449277300962
+    second: Jefe  lanzador de redes_13
+  - first:
+      213: -8391206544930317927
+    second: Jefe  lanzador de redes_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 821
+        width: 379
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c004ff41459d280800000000000000
+      internalID: -9018084329674240979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 187
+        width: 1170
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d71b72903701c0800000000000000
+      internalID: -4537604693863968348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 231
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144744c988ccda00800000000000000
+      internalID: 782720929284703250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 162
+        width: 235
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b64e3e865b0f90800000000000000
+      internalID: -6986395228005027310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 631
+        width: 243
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb576ebf837fc50800000000000000
+      internalID: 6698885625291324366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 199
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588f29bbf1e03520800000000000000
+      internalID: 2679890249545386071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 131
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4391908ac7fb5b0800000000000000
+      internalID: -5350420771143863075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 159
+        width: 273
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e83b2948da6940800000000000000
+      internalID: 5290278521069429517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 803
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dfe3a402680c300800000000000000
+      internalID: 270363450884947267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 175
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed46dbfadc2d430800000000000000
+      internalID: 3806330789761965679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 173
+        width: 423
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc1cb417b1bd630800000000000000
+      internalID: 3952783271363988687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 169
+        width: 258
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade144b4bcf332140800000000000000
+      internalID: 4693665379023855322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_12
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 175
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ec7be8539276e0800000000000000
+      internalID: -1841247287523876089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fdffaf734dd79f0800000000000000
+      internalID: -468985449277300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe  lanzador de redes_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 33
+        width: 392
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999de7c1b127c8b80800000000000000
+      internalID: -8391206544930317927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jefe  lanzador de redes_0: -9018084329674240979
+      Jefe  lanzador de redes_1: -4537604693863968348
+      Jefe  lanzador de redes_10: 3952783271363988687
+      Jefe  lanzador de redes_11: 4693665379023855322
+      Jefe  lanzador de redes_12: -1841247287523876089
+      Jefe  lanzador de redes_13: -468985449277300962
+      Jefe  lanzador de redes_14: -8391206544930317927
+      Jefe  lanzador de redes_2: 782720929284703250
+      Jefe  lanzador de redes_3: -6986395228005027310
+      Jefe  lanzador de redes_4: 6698885625291324366
+      Jefe  lanzador de redes_5: 2679890249545386071
+      Jefe  lanzador de redes_6: -5350420771143863075
+      Jefe  lanzador de redes_7: 5290278521069429517
+      Jefe  lanzador de redes_8: 270363450884947267
+      Jefe  lanzador de redes_9: 3806330789761965679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

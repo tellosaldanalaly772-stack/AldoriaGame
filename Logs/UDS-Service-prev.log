@@ -1,0 +1,62 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix eabd3a275978110b466b7a3c2684341d
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file C:/Users/Laly/OneDrive/Documentos/AldoriaGame/AldoriaGame/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: eabd3a275978110b466b7a3c2684341d
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+[Error] Failed to remove data for hash c525cc5ea40390ab78acfc090e962b27. Failure received from service
+0x00007ff715e4c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff715e0fe85 (Unity.DataStore) uds_cleanup
+0x00007ff715dfee6f (Unity.DataStore) 
+0x00007ff715e000bd (Unity.DataStore) 
+0x00007ff715de7395 (Unity.DataStore) 
+0x00007ff715de681a (Unity.DataStore) 
+0x00007ff715de6aff (Unity.DataStore) 
+0x00007ff715de28b5 (Unity.DataStore) 
+0x00007ff715e680e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff82bd8ccb7 (KERNEL32) BaseThreadInitThunk
+0x00007ff82d32ad6c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 8347b4440d390f3348ed3f404eb1d61f. Failure received from service
+0x00007ff715e4c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff715e0fe85 (Unity.DataStore) uds_cleanup
+0x00007ff715dfee6f (Unity.DataStore) 
+0x00007ff715e000bd (Unity.DataStore) 
+0x00007ff715de7395 (Unity.DataStore) 
+0x00007ff715de681a (Unity.DataStore) 
+0x00007ff715de6aff (Unity.DataStore) 
+0x00007ff715de28b5 (Unity.DataStore) 
+0x00007ff715e680e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff82bd8ccb7 (KERNEL32) BaseThreadInitThunk
+0x00007ff82d32ad6c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash eda15fb3e376bd02b14a8b7f3126a9d5. Failure received from service
+0x00007ff715e4c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff715e0fe85 (Unity.DataStore) uds_cleanup
+0x00007ff715dfee6f (Unity.DataStore) 
+0x00007ff715e000bd (Unity.DataStore) 
+0x00007ff715de7395 (Unity.DataStore) 
+0x00007ff715de681a (Unity.DataStore) 
+0x00007ff715de6aff (Unity.DataStore) 
+0x00007ff715de28b5 (Unity.DataStore) 
+0x00007ff715e680e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff82bd8ccb7 (KERNEL32) BaseThreadInitThunk
+0x00007ff82d32ad6c (ntdll) RtlUserThreadStart
+
+Unity Data Store Application Complete
+Shut down UDS service system complete

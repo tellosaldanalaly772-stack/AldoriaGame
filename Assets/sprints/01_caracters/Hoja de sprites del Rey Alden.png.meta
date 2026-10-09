@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 606b10fc24b328441b4f540ba89c3f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7889786073565330980
+    second: Hoja de sprites del Rey Alden_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e7facc1a62e7d60800000000000000
+      internalID: 7889786073565330980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 370
+        width: 130
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669cc99a19024d84a8d7b0c74ebbea1f
+      internalID: 2120385281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 561
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556df6a43e2f08249aed214b9d16af13
+      internalID: -503682658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 561
+        width: 102
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058100a79022274da1014dcfa24dc30
+      internalID: 1362291611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 564
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb686e3dce9d8d046b9e6f9e44850678
+      internalID: -383732251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 563
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a45f384aa8650e4dba5d5badf76f04c
+      internalID: -1386076378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 565
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744c02c6f5a308247bbd33b2461fbd08
+      internalID: 1079103747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 561
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9db129e75d34845966be3b1460777e
+      internalID: -490703678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 564
+        width: 95
+        height: 144
+      alignment: 9
+      pivot: {x: 0.47970742, y: 0.4910753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4179c0554b613419356087cf99323e
+      internalID: 643365811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 566
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85de71f8604ceb49bcf393c270a2ee0
+      internalID: 415748076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_10
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 564
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b3f697f8a5f74ebaf88ba1f837535
+      internalID: 1825677130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_11
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 571
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c053864915f3349985a02d4d558784
+      internalID: 101947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_12
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 568
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b01603d48e0584ca67b0129ad6f411
+      internalID: -1072389852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_13
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 567
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc353eb8ab4b6da42937aea94511abd0
+      internalID: -1553995688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_14
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 566
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933407f62023fb44596bcf8d002012bc
+      internalID: 515616598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_15
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 568
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364fe88707bb2d4fb2cd2e1b0a1cdb2
+      internalID: 120790568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_16
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 566
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b6300e0e5566488824169109a7dc3
+      internalID: -313177479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_17
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 562
+        width: 89
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826f70ee42a2ec45b0ae124b389d6af
+      internalID: 1662678491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_18
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 568
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d653923a434a1418e7e7dee0cbb12e
+      internalID: -994120675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_19
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 564
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64310d4fb6d814044a46c16908425af7
+      internalID: 1532388289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_20
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 568
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15ca75b4b84104389ec54fbece914a
+      internalID: -109690483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_21
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 568
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f39bae537be8499eef65ada7e5841
+      internalID: -2017618124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_22
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 563
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251afdeb1280104499ff6e7c03b0e4ca
+      internalID: -321637970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_23
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 564
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c75551bf13024ebecff4aa98c4f95
+      internalID: 1446427405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 372
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4602405574d6499657e8285dc4b25
+      internalID: 1701298419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 376
+        width: 115
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ce43b8ce18e246a19bcc21e630383
+      internalID: -853954640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 372
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42ca48d59edb54db91ae4c21aaff86
+      internalID: 1181070165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 374
+        width: 126
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacbccda69157f2479de599a7242ed76
+      internalID: 318703597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_28
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 379
+        width: 138
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8471f63155ef46a04e2284b947e7c
+      internalID: 1153327222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_29
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 377
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85055ffc55f5bb74793949c3d2decd47
+      internalID: -514062869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_30
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 377
+        width: 131
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c73774da58374b9153f80687d44a2
+      internalID: 678891729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_31
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 385
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d45019c97211f47b87988d6d408f9b
+      internalID: -1599516392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_32
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 376
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443adfc96ff0004cac5df42fe54d2ac
+      internalID: -1629331966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_33
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 377
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf18e9d18f808e42a1c43317a8ab90a
+      internalID: 1561015940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 381
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d1aa5cfada6f478646661c86e47cc
+      internalID: -777003695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_35
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 377
+        width: 141
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c660b962e831c4bb2256ab6efb4c0f
+      internalID: -657818977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_36
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 381
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9212a93893665c844b347b754553913c
+      internalID: 1004878396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_37
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 375
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730b5d80d80b9d42a15f4c4dfaaecc8
+      internalID: -1718454523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 6
+        width: 163
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f713cf52eaf484cb46ad200f12b48e
+      internalID: -2116961469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_39
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 11
+        width: 181
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e869cc2b06b04d8fbb025f762efb7
+      internalID: -1238891493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_40
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 7
+        width: 200
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa5c704c65cdf47b920043e0e34917
+      internalID: -748622675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 16
+        width: 265
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b6e429a3c61e46bd035a26b751b88
+      internalID: -1795565875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_42
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 16
+        width: 269
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5ed8d857b0ef48ba933d72c50d88d
+      internalID: -919938119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de sprites del Rey Alden_43
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 18
+        width: 316
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b05a46f8ab20c40850eb869cf9a9a5
+      internalID: -332275812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9e594369d7e55a4e828e37eab0bfd16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hoja de sprites del Rey Alden_0: 7889786073565330980
+      Hoja de sprites del Rey Alden_1: 2120385281
+      Hoja de sprites del Rey Alden_10: 1825677130
+      Hoja de sprites del Rey Alden_11: 101947325
+      Hoja de sprites del Rey Alden_12: -1072389852
+      Hoja de sprites del Rey Alden_13: -1553995688
+      Hoja de sprites del Rey Alden_14: 515616598
+      Hoja de sprites del Rey Alden_15: 120790568
+      Hoja de sprites del Rey Alden_16: -313177479
+      Hoja de sprites del Rey Alden_17: 1662678491
+      Hoja de sprites del Rey Alden_18: -994120675
+      Hoja de sprites del Rey Alden_19: 1532388289
+      Hoja de sprites del Rey Alden_2: -503682658
+      Hoja de sprites del Rey Alden_20: -109690483
+      Hoja de sprites del Rey Alden_21: -2017618124
+      Hoja de sprites del Rey Alden_22: -321637970
+      Hoja de sprites del Rey Alden_23: 1446427405
+      Hoja de sprites del Rey Alden_24: 1701298419
+      Hoja de sprites del Rey Alden_25: -853954640
+      Hoja de sprites del Rey Alden_26: 1181070165
+      Hoja de sprites del Rey Alden_27: 318703597
+      Hoja de sprites del Rey Alden_28: 1153327222
+      Hoja de sprites del Rey Alden_29: -514062869
+      Hoja de sprites del Rey Alden_3: 1362291611
+      Hoja de sprites del Rey Alden_30: 678891729
+      Hoja de sprites del Rey Alden_31: -1599516392
+      Hoja de sprites del Rey Alden_32: -1629331966
+      Hoja de sprites del Rey Alden_33: 1561015940
+      Hoja de sprites del Rey Alden_34: -777003695
+      Hoja de sprites del Rey Alden_35: -657818977
+      Hoja de sprites del Rey Alden_36: 1004878396
+      Hoja de sprites del Rey Alden_37: -1718454523
+      Hoja de sprites del Rey Alden_38: -2116961469
+      Hoja de sprites del Rey Alden_39: -1238891493
+      Hoja de sprites del Rey Alden_4: -383732251
+      Hoja de sprites del Rey Alden_40: -748622675
+      Hoja de sprites del Rey Alden_41: -1795565875
+      Hoja de sprites del Rey Alden_42: -919938119
+      Hoja de sprites del Rey Alden_43: -332275812
+      Hoja de sprites del Rey Alden_5: -1386076378
+      Hoja de sprites del Rey Alden_6: 1079103747
+      Hoja de sprites del Rey Alden_7: -490703678
+      Hoja de sprites del Rey Alden_8: 643365811
+      Hoja de sprites del Rey Alden_9: 415748076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
